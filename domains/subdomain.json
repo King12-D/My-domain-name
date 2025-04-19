@@ -1,0 +1,11 @@
+{
+    "description": "This subdomain was created by KING_DAV and is strictly meant for Devs only",
+    "repo": "https://github.com/King12-D/My-domain-name",
+    "owner": {
+        "username": "King12-D",
+        "email": "mickyyoung660@gmail.com"
+    },
+    "record": {
+        "CNAME": "King12-D.github.io"
+    }
+}
